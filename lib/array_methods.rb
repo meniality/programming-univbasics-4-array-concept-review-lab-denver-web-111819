@@ -23,5 +23,5 @@ def find_max_value(array)
 end
 
 def find_min_value(array)
-  if find_min_value.len
+  find_min_value.length.times |index| do 
 end
